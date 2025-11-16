@@ -98,4 +98,4 @@ function updateName(fullName) {
 
 store.dispatch(createCustomer("Prosper Joseph", "56565656"));
 
-console.log(store.getState());
+console.log(store.getState);
